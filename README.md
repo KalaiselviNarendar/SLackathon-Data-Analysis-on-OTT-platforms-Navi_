@@ -18,7 +18,8 @@ by Kalaiselvi Ganesan
   OTT platforms are becomming much more popular. So, nowadays many people are started using OTT platforms instead of old cable TV connections. There comes the need for identifying which OTT platform used more, based on the interest and needs of the customer. Based on the historic data, in this project I am going to identify which OTT was most commonly used.
   
 ### What's the problem?
-  As many people are started using OTT platform there is a need to identify which factors make the customer to increase the amount content consumed on those platform.  
+  As many people are started using OTT platform there is a need to identify which factors make the customer to increase amount of content consumed on those platform.  
+  Just like Televisions, based on analysis which program can be telecasted on peak hours similarly need to identify which factors increase the time spent on an OTT platform.
 
 ### How can technology help?
 
