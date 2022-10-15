@@ -32,3 +32,4 @@ Based on the analysis they can focus on the facts and makes use of it to increas
 ## Demo video
 
 ## The Architecture
+![Architecture Diagram](https://user-images.githubusercontent.com/112448165/195977796-7c308134-8353-42fa-8a15-06ed1a20fd42.jpg)
