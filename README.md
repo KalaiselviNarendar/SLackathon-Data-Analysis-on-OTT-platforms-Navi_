@@ -13,3 +13,15 @@ by Kalaiselvi Ganesan
 - [Long description](#long-description)
 - [Project roadmap](#project-roadmap)
 - [Live demo](#live-demo)
+
+##Short description
+
+###What's th problem?
+
+###How can technology help?
+
+###The idea
+
+##Demo video
+
+##The Architecture
