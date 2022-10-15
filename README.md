@@ -2,7 +2,7 @@
 by Kalaiselvi Ganesan
 
 ## Content
-- [Submission or project name](# Data Analysis on OTT platforms)
+- [Submission or project name](#Data-Analysis-on-OTT-platforms)
 - [contents](#contents)
 - [Short description](#Short-description)
   - [What's the problem](#whats-the-problem)
