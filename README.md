@@ -30,6 +30,7 @@ Using Historical data we can train the machine learning model and predict the fa
 Based on the analysis they can focus on the facts and makes use of it to increase the time spend for their OTT platforms and make themself popular.
 
 ## Demo video
+will be updated soon
 
 ## The Architecture
 ![Architecture Diagram](https://user-images.githubusercontent.com/112448165/195977796-7c308134-8353-42fa-8a15-06ed1a20fd42.jpg)
