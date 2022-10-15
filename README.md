@@ -25,8 +25,9 @@ by Kalaiselvi Ganesan
 With the help of data analysis we can identify which factors are affecting the time spend on a particular OTT platform and with this they can make changes to increase the time spend.
 
 ### The idea
-Using Historical data we can train the machine learning model and predict the factor to increase the timespend. With this we can easily identify the interest of the people based on geographical location, age and hours spend by them on a particular OTT platform.
-Based on the analysis OTT platforms can focus on the facts and makes use of them to increase the time spend for their particular OTT platforms and make more use of it.
+Using Historical data we can train the machine learning model and predict the factor to increase the timespend. With this we can easily identify the interest of the people based on geographical location, age and hours spend by them on which OTT platform.
+
+Based on the analysis they can focus on the facts and makes use of it to increase the time spend for their OTT platforms and make themself popular.
 
 ## Demo video
 
