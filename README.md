@@ -9,7 +9,7 @@ by Kalaiselvi Ganesan
   - [How can technology help?](#how-can-technology-help)
   - [The idea](#the-idea)
 - [Demo video](#demo-video)
-- The architecture](#the-architecture)
+- [The architecture](#the-architecture)
 - [Long description](#long-description)
 - [Project roadmap](#project-roadmap)
 - [Live demo](#live-demo)
