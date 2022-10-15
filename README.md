@@ -14,14 +14,14 @@ by Kalaiselvi Ganesan
 - [Project roadmap](#project-roadmap)
 - [Live demo](#live-demo)
 
-##Short description
+## Short description
 
-###What's th problem?
+### What's th problem?
 
-###How can technology help?
+### How can technology help?
 
-###The idea
+### The idea
 
-##Demo video
+## Demo video
 
-##The Architecture
+## The Architecture
