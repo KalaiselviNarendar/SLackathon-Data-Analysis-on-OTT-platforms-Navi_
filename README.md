@@ -19,7 +19,7 @@ by Kalaiselvi Ganesan
   
 ### What's the problem?
   As many people are started using OTT platform there is a need to identify which factors increases amount of content consumed on those platform by customers.  
-  Just like Televisions, based on analysis which program can be telecasted on peak hours similarly need to identify which factors increase the time spent on an particular OTT platform.
+  Just like Televisions, based on analysis which program can be telecasted on peak hours similarly need to identify which factors increase the time spent on a particular OTT platform.
 
 ### How can technology help?
 
